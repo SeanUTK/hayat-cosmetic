@@ -31,7 +31,15 @@ img {
 }
 
 .img-cover1 {
-    width: 50%;
+    width: 80%;
+}
+
+.hero-text {
+    background-color: #ffffff95;
+    padding: 40px;
+    color: black;
+    line-height: 2;
+    /* border-radius: 20px; */
 }
 
 .navbar {
