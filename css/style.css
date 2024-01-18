@@ -38,6 +38,10 @@ img {
     box-shadow: var(--box-shadow);
 }
 
+.logo1 {
+    width: 18%;
+}
+
 .logo {
     width: 40%;
 }
